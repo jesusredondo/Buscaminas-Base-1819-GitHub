@@ -2,7 +2,7 @@ import java.awt.EventQueue;
 
 /**
  * Clase principal
- * @author oscarlaguna
+ * @author josedaniel
  *
  */
 public class Principal {
